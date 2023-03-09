@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3a6bce8-f629-4770-ae0c-cbda87d01c72" name="Changes" comment="Created beta branch. Updated README.md">
+    <list default="true" id="e3a6bce8-f629-4770-ae0c-cbda87d01c72" name="Changes" comment="committing missing files">
+      <change afterPath="$PROJECT_DIR$/bots/Tesseract/aiml/profanity.aiml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bots/Tesseract/aiml/basicQuestions.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aiml/basicQuestions.aiml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bots/Tesseract/aiml/greetings.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aiml/greetings.aiml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bots/Tesseract/aimlif/basicQuestions.aiml.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aimlif/basicQuestions.aiml.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bots/Tesseract/aimlif/greetings.aiml.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aimlif/greetings.aiml.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AIML" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -72,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created beta branch. Updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created beta branch. Updated README.md" />
+    <MESSAGE value="committing missing files" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing missing files" />
   </component>
 </project>

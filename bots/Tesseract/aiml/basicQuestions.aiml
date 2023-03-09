@@ -38,7 +38,7 @@
     </category>
 
     <category>
-        <pattern>* cool fact</pattern>
+        <pattern>cool fact</pattern>
         <template>
             <random>
                 <li>A crocodile cannot stick its tongue out</li>
@@ -52,6 +52,20 @@
                 <li>Freelancers originally referred to self-employed, sword-wielding mercenaries: literally “freelancers.”</li>
                 <li>Michelin stars are highly coveted by elite and upscale restaurants the world over—but they’re actually given out by the Michelin tire company, the same one whose mascot is the marshmallow-like Michelin Man. If you want to get fancy, pronounce it in the original French, “mich-LEH.”</li>
             </random>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* cool fact</pattern>
+        <template>
+            <srai>cool fact</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* cool fact *</pattern>
+        <template>
+            <srai>cool fact</srai>
         </template>
     </category>
 

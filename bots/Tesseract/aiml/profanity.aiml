@@ -1,0 +1,141 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version="2.0" encoding="UTF-8">
+    <category>
+        <pattern>bad words</pattern>
+        <template>
+            "Inappropriate language detected."
+        </template>
+    </category>
+    <category>
+        <pattern>ass</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* ass</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* ass *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>ass *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>bitch</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* bitch</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* bitch *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+    <pattern>bitch *</pattern>
+    <template>
+        <srai>bad words</srai>
+    </template>
+</category>
+    <category>
+        <pattern>fag</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* fag</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* fag *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>fag *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>fuck</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* fuck</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* fuck *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>fuck *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* sex with me</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* sex with you</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>horny</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* horny</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>* horny *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+    <category>
+        <pattern>horny *</pattern>
+        <template>
+            <srai>bad words</srai>
+        </template>
+    </category>
+</aiml>

@@ -14,6 +14,11 @@
 
     <category>
         <pattern>What is your name</pattern>
+        <template>My name is Tesseract</template>
+    </category>
+
+    <category>
+        <pattern>Who are you</pattern>
         <template>I'm Tesseract!</template>
     </category>
 
@@ -26,6 +31,12 @@
 
     <category>
         <pattern>Hello, my name is *</pattern>
+        <template>
+            Hi! I'm Tesseract, your virtual chatbot! Nice to meet you <set name = "username"><star/></set>
+        </template>
+    </category>
+    <category>
+        <pattern>Hello my name is *</pattern>
         <template>
             Hi! I'm Tesseract, your virtual chatbot! Nice to meet you <set name = "username"><star/></set>
         </template>
