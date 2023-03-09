@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<aiml version = "2.0" encoding = "UTF-8">
+    <category>
+        <pattern>HI</pattern>
+        <template>Hi! I'm Tesseract, your virtual chatbot!</template>
+    </category>
+
+   <category>
+        <pattern>Hello</pattern>
+        <template>
+            <srai>HI</srai>
+        </template>
+   </category>
+
+    <category>
+        <pattern>What is your name</pattern>
+        <template>I'm Tesseract!</template>
+    </category>
+
+    <category>
+        <pattern>My name is *</pattern>
+        <template>
+            Nice to meet you <set name = "username"><star/></set>
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hello, my name is *</pattern>
+        <template>
+            Hi! I'm Tesseract, your virtual chatbot! Nice to meet you <set name = "username"><star/></set>
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hi, my name is *</pattern>
+        <template>
+            Hi! I'm Tesseract, your virtual chatbot! Nice to meet you <set name = "username"><star/></set>
+        </template>
+    </category>
+
+    <category>
+        <pattern>Hi my name is *</pattern>
+        <template>
+            Hi! I'm Tesseract, your virtual chatbot! Nice to meet you <set name = "username"><star/></set>
+        </template>
+    </category>
+</aiml>

@@ -1,0 +1,7 @@
+0,HI,*,*,Hi! I'm Tesseract#Comma your virtual chatbot!,greetings.aiml
+0,HELLO,*,*,<srai>HI</srai>,greetings.aiml
+0,WHAT IS YOUR NAME,*,*,I'm Tesseract!,greetings.aiml
+0,MY NAME IS *,*,*,Nice to meet you <set name="username"><star/></set>,greetings.aiml
+0,HELLO, MY NAME IS *,*,*,Hi! I'm Tesseract#Comma your virtual chatbot! Nice to meet you <set name="username"><star/></set>,greetings.aiml
+0,HI, MY NAME IS *,*,*,Hi! I'm Tesseract#Comma your virtual chatbot! Nice to meet you <set name="username"><star/></set>,greetings.aiml
+0,HI MY NAME IS *,*,*,Hi! I'm Tesseract#Comma your virtual chatbot! Nice to meet you <set name="username"><star/></set>,greetings.aiml
