@@ -1,4 +1,4 @@
-# Tesseract AI Chat-Bot
+# Tesseract AI Chatbot
 ---Updated 03.09.2023---
 
 -----What is Tesseract?-----
