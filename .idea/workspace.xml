@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3a6bce8-f629-4770-ae0c-cbda87d01c72" name="Changes" comment="committing missing files">
-      <change afterPath="$PROJECT_DIR$/bots/Tesseract/aiml/profanity.aiml" afterDir="false" />
+    <list default="true" id="e3a6bce8-f629-4770-ae0c-cbda87d01c72" name="Changes" comment="Created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bots/Tesseract/aiml/basicQuestions.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aiml/basicQuestions.aiml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bots/Tesseract/aiml/greetings.aiml" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aiml/greetings.aiml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bots/Tesseract/aimlif/basicQuestions.aiml.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aimlif/basicQuestions.aiml.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bots/Tesseract/aimlif/greetings.aiml.csv" beforeDir="false" afterPath="$PROJECT_DIR$/bots/Tesseract/aimlif/greetings.aiml.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678390946300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Profanity filter created profanity.aiml&#10;greetings.aiml updated with more language options&#10;basicQuestions.aiml cool facts now able to be triggered by more options">
+      <created>1678394213062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678394213062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created beta branch. Updated README.md" />
     <MESSAGE value="committing missing files" />
-    <option name="LAST_COMMIT_MESSAGE" value="committing missing files" />
+    <MESSAGE value="Profanity filter created profanity.aiml&#10;greetings.aiml updated with more language options&#10;basicQuestions.aiml cool facts now able to be triggered by more options" />
+    <option name="LAST_COMMIT_MESSAGE" value="Profanity filter created profanity.aiml&#10;greetings.aiml updated with more language options&#10;basicQuestions.aiml cool facts now able to be triggered by more options" />
   </component>
 </project>

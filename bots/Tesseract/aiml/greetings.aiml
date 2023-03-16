@@ -13,6 +13,13 @@
    </category>
 
     <category>
+        <pattern>Hey</pattern>
+        <template>
+            <srai>HI</srai>
+        </template>
+    </category>
+
+    <category>
         <pattern>What is your name</pattern>
         <template>My name is Tesseract</template>
     </category>
